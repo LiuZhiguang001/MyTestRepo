@@ -1,6 +1,6 @@
 name: Greetings
 
-on: [pull]
+on: [push]
 
 jobs:
   greeting:
